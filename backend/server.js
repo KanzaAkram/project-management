@@ -1,4 +1,4 @@
-// require("dotenv").config();
+
 import express from 'express';
 import api from './routes/index.js';
 import dotenv from 'dotenv';
